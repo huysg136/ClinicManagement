@@ -1,45 +1,45 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\AdvancedDB\\FinalProject\\",
+  "WorkspaceRootPath": "C:\\Users\\DELL\\OneDrive\\Desktop\\DentalClinicManagement\\FinalProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FDBF092D-D96F-4C5F-B716-0F6A9DD44521}|FinalProject\\FinalProject.csproj|d:\\advanceddb\\finalproject\\finalproject\\reportcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{FDBF092D-D96F-4C5F-B716-0F6A9DD44521}|FinalProject\\FinalProject.csproj|c:\\users\\dell\\onedrive\\desktop\\dentalclinicmanagement\\finalproject\\finalproject\\reportcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{FDBF092D-D96F-4C5F-B716-0F6A9DD44521}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\reportcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FDBF092D-D96F-4C5F-B716-0F6A9DD44521}|FinalProject\\FinalProject.csproj|d:\\advanceddb\\finalproject\\finalproject\\predetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FDBF092D-D96F-4C5F-B716-0F6A9DD44521}|FinalProject\\FinalProject.csproj|C:\\Users\\DELL\\OneDrive\\Desktop\\DentalClinicManagement\\FinalProject\\finalproject\\predetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FDBF092D-D96F-4C5F-B716-0F6A9DD44521}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\predetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FDBF092D-D96F-4C5F-B716-0F6A9DD44521}|FinalProject\\FinalProject.csproj|d:\\advanceddb\\finalproject\\finalproject\\homecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{FDBF092D-D96F-4C5F-B716-0F6A9DD44521}|FinalProject\\FinalProject.csproj|C:\\Users\\DELL\\OneDrive\\Desktop\\DentalClinicManagement\\FinalProject\\finalproject\\homecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{FDBF092D-D96F-4C5F-B716-0F6A9DD44521}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\homecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FDBF092D-D96F-4C5F-B716-0F6A9DD44521}|FinalProject\\FinalProject.csproj|d:\\advanceddb\\finalproject\\finalproject\\servicecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{FDBF092D-D96F-4C5F-B716-0F6A9DD44521}|FinalProject\\FinalProject.csproj|C:\\Users\\DELL\\OneDrive\\Desktop\\DentalClinicManagement\\FinalProject\\finalproject\\servicecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{FDBF092D-D96F-4C5F-B716-0F6A9DD44521}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\servicecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FDBF092D-D96F-4C5F-B716-0F6A9DD44521}|FinalProject\\FinalProject.csproj|d:\\advanceddb\\finalproject\\finalproject\\prescriptioncontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{FDBF092D-D96F-4C5F-B716-0F6A9DD44521}|FinalProject\\FinalProject.csproj|C:\\Users\\DELL\\OneDrive\\Desktop\\DentalClinicManagement\\FinalProject\\finalproject\\prescriptioncontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{FDBF092D-D96F-4C5F-B716-0F6A9DD44521}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\prescriptioncontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FDBF092D-D96F-4C5F-B716-0F6A9DD44521}|FinalProject\\FinalProject.csproj|d:\\advanceddb\\finalproject\\finalproject\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FDBF092D-D96F-4C5F-B716-0F6A9DD44521}|FinalProject\\FinalProject.csproj|C:\\Users\\DELL\\OneDrive\\Desktop\\DentalClinicManagement\\FinalProject\\finalproject\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FDBF092D-D96F-4C5F-B716-0F6A9DD44521}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FDBF092D-D96F-4C5F-B716-0F6A9DD44521}|FinalProject\\FinalProject.csproj|D:\\AdvancedDB\\FinalProject\\finalproject\\servicecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FDBF092D-D96F-4C5F-B716-0F6A9DD44521}|FinalProject\\FinalProject.csproj|C:\\Users\\DELL\\OneDrive\\Desktop\\DentalClinicManagement\\FinalProject\\finalproject\\servicecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FDBF092D-D96F-4C5F-B716-0F6A9DD44521}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\servicecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FDBF092D-D96F-4C5F-B716-0F6A9DD44521}|FinalProject\\FinalProject.csproj|d:\\advanceddb\\finalproject\\finalproject\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{FDBF092D-D96F-4C5F-B716-0F6A9DD44521}|FinalProject\\FinalProject.csproj|C:\\Users\\DELL\\OneDrive\\Desktop\\DentalClinicManagement\\FinalProject\\finalproject\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{FDBF092D-D96F-4C5F-B716-0F6A9DD44521}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FDBF092D-D96F-4C5F-B716-0F6A9DD44521}|FinalProject\\FinalProject.csproj|d:\\advanceddb\\finalproject\\finalproject\\predetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{FDBF092D-D96F-4C5F-B716-0F6A9DD44521}|FinalProject\\FinalProject.csproj|C:\\Users\\DELL\\OneDrive\\Desktop\\DentalClinicManagement\\FinalProject\\finalproject\\predetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{FDBF092D-D96F-4C5F-B716-0F6A9DD44521}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\predetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FDBF092D-D96F-4C5F-B716-0F6A9DD44521}|FinalProject\\FinalProject.csproj|d:\\advanceddb\\finalproject\\finalproject\\prescriptioncontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FDBF092D-D96F-4C5F-B716-0F6A9DD44521}|FinalProject\\FinalProject.csproj|C:\\Users\\DELL\\OneDrive\\Desktop\\DentalClinicManagement\\FinalProject\\finalproject\\prescriptioncontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FDBF092D-D96F-4C5F-B716-0F6A9DD44521}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\prescriptioncontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -56,36 +56,33 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "ServiceControl.cs",
-              "DocumentMoniker": "D:\\AdvancedDB\\FinalProject\\FinalProject\\ServiceControl.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Desktop\\DentalClinicManagement\\FinalProject\\FinalProject\\ServiceControl.cs",
               "RelativeDocumentMoniker": "FinalProject\\ServiceControl.cs",
-              "ToolTip": "D:\\AdvancedDB\\FinalProject\\FinalProject\\ServiceControl.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Desktop\\DentalClinicManagement\\FinalProject\\FinalProject\\ServiceControl.cs",
               "RelativeToolTip": "FinalProject\\ServiceControl.cs",
               "ViewState": "AgIAABEAAAAAAAAAAAA7wBgAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-31T08:36:22.113Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "ServiceControl.cs [Design]",
-              "DocumentMoniker": "D:\\AdvancedDB\\FinalProject\\FinalProject\\ServiceControl.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Desktop\\DentalClinicManagement\\FinalProject\\FinalProject\\ServiceControl.cs",
               "RelativeDocumentMoniker": "FinalProject\\ServiceControl.cs",
               "ToolTip": "D:\\AdvancedDB\\FinalProject\\FinalProject\\ServiceControl.cs [Design]",
-              "RelativeToolTip": "FinalProject\\ServiceControl.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-31T13:13:22.285Z",
-              "IsPinned": true,
-              "EditorCaption": " [Design]"
+              "IsPinned": true
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ReportControl.cs [Design]",
-              "DocumentMoniker": "D:\\AdvancedDB\\FinalProject\\FinalProject\\ReportControl.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Desktop\\DentalClinicManagement\\FinalProject\\FinalProject\\ReportControl.cs",
               "RelativeDocumentMoniker": "FinalProject\\ReportControl.cs",
-              "ToolTip": "D:\\AdvancedDB\\FinalProject\\FinalProject\\ReportControl.cs [Design]",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Desktop\\DentalClinicManagement\\FinalProject\\FinalProject\\ReportControl.cs [Design]",
               "RelativeToolTip": "FinalProject\\ReportControl.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-31T14:41:26.612Z",
@@ -95,88 +92,77 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "PreDetail.cs",
-              "DocumentMoniker": "D:\\AdvancedDB\\FinalProject\\FinalProject\\PreDetail.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Desktop\\DentalClinicManagement\\FinalProject\\FinalProject\\PreDetail.cs",
               "RelativeDocumentMoniker": "FinalProject\\PreDetail.cs",
-              "ToolTip": "D:\\AdvancedDB\\FinalProject\\FinalProject\\PreDetail.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Desktop\\DentalClinicManagement\\FinalProject\\FinalProject\\PreDetail.cs",
               "RelativeToolTip": "FinalProject\\PreDetail.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAAiwCwAAABjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T14:34:58.16Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-31T14:34:58.16Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "PrescriptionControl.cs [Design]",
-              "DocumentMoniker": "D:\\AdvancedDB\\FinalProject\\FinalProject\\PrescriptionControl.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Desktop\\DentalClinicManagement\\FinalProject\\FinalProject\\PrescriptionControl.cs",
               "RelativeDocumentMoniker": "FinalProject\\PrescriptionControl.cs",
               "ToolTip": "D:\\AdvancedDB\\FinalProject\\FinalProject\\PrescriptionControl.cs [Design]",
-              "RelativeToolTip": "FinalProject\\PrescriptionControl.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T14:22:39.557Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-03-31T14:22:39.557Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "HomeControl.cs [Design]",
-              "DocumentMoniker": "D:\\AdvancedDB\\FinalProject\\FinalProject\\HomeControl.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Desktop\\DentalClinicManagement\\FinalProject\\FinalProject\\HomeControl.cs",
               "RelativeDocumentMoniker": "FinalProject\\HomeControl.cs",
               "ToolTip": "D:\\AdvancedDB\\FinalProject\\FinalProject\\HomeControl.cs [Design]",
-              "RelativeToolTip": "FinalProject\\HomeControl.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T14:41:10.461Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-03-31T14:41:10.461Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "Admin.cs [Design]",
-              "DocumentMoniker": "D:\\AdvancedDB\\FinalProject\\FinalProject\\Admin.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Desktop\\DentalClinicManagement\\FinalProject\\FinalProject\\Admin.cs",
               "RelativeDocumentMoniker": "FinalProject\\Admin.cs",
               "ToolTip": "D:\\AdvancedDB\\FinalProject\\FinalProject\\Admin.cs [Design]",
-              "RelativeToolTip": "FinalProject\\Admin.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T14:40:03.421Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-03-31T14:40:03.421Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Admin.cs",
-              "DocumentMoniker": "D:\\AdvancedDB\\FinalProject\\FinalProject\\Admin.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Desktop\\DentalClinicManagement\\FinalProject\\FinalProject\\Admin.cs",
               "RelativeDocumentMoniker": "FinalProject\\Admin.cs",
-              "ToolTip": "D:\\AdvancedDB\\FinalProject\\FinalProject\\Admin.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Desktop\\DentalClinicManagement\\FinalProject\\FinalProject\\Admin.cs",
               "RelativeToolTip": "FinalProject\\Admin.cs",
               "ViewState": "AgIAAB4AAAAAAAAAAAAQwCYAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T14:40:14.793Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-31T14:40:14.793Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "PreDetail.cs [Design]",
-              "DocumentMoniker": "D:\\AdvancedDB\\FinalProject\\FinalProject\\PreDetail.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Desktop\\DentalClinicManagement\\FinalProject\\FinalProject\\PreDetail.cs",
               "RelativeDocumentMoniker": "FinalProject\\PreDetail.cs",
               "ToolTip": "D:\\AdvancedDB\\FinalProject\\FinalProject\\PreDetail.cs [Design]",
-              "RelativeToolTip": "FinalProject\\PreDetail.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T14:32:21.235Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-03-31T14:32:21.235Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "PrescriptionControl.cs",
-              "DocumentMoniker": "D:\\AdvancedDB\\FinalProject\\FinalProject\\PrescriptionControl.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Desktop\\DentalClinicManagement\\FinalProject\\FinalProject\\PrescriptionControl.cs",
               "RelativeDocumentMoniker": "FinalProject\\PrescriptionControl.cs",
-              "ToolTip": "D:\\AdvancedDB\\FinalProject\\FinalProject\\PrescriptionControl.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Desktop\\DentalClinicManagement\\FinalProject\\FinalProject\\PrescriptionControl.cs",
               "RelativeToolTip": "FinalProject\\PrescriptionControl.cs",
               "ViewState": "AgIAACAAAAAAAAAAAAAiwC4AAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T14:25:05.594Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-31T14:25:05.594Z"
             }
           ]
         }
