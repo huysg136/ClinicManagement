@@ -1,4 +1,4 @@
-# Dental Clinic Management - WinForm Application  
+# Clinic Management - WinForm Application  
 
 ## 🏥 Giới thiệu  
 Ứng dụng WinForm quản lý nha khoa, hỗ trợ quản lý bệnh nhân, bác sĩ, dịch vụ, đơn thuốc, kho thuốc, hóa đơn và thanh toán.  
