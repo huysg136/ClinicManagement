@@ -56,8 +56,8 @@ namespace FinalProject
 
         private void btnHome_Click(object sender, EventArgs e)
         {
-            ReportControl home = new ReportControl();
-            LoadControl(home);
+            ReportControl home2 = new ReportControl();
+            LoadControl(home2);
             ChangeButtonColor(btnHome);
         }
 
