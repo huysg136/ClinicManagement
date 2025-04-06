@@ -254,3 +254,4 @@ SELECT * FROM PrescriptionDetails;
 SELECT * FROM Services;
 SELECT * FROM Bills;
 SELECT * FROM BillDetails;
+
